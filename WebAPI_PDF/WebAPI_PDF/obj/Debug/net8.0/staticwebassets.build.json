@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bTHJk/wMO6iCLoVkCa2BcbVJ0Awjfx8FeBBcSVETWNc=",
+  "Source": "WebAPI_PDF",
+  "BasePath": "_content/WebAPI_PDF",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
